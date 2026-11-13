@@ -16,3 +16,9 @@ An end-to-end R pipeline for identifying **Differentially Accessible Regions (DA
 - R >= 4.2
 - Bioconductor Packages: `GenomicRanges`, `GenomicAlignments`, `edgeR`, `limma`, `BSgenome.Hsapiens.UCSC.hg38`, `monaLisa`, `JASPAR2020`, `TFBSTools`
 - CRAN Packages: `ggplot2`, `ggrepel`, `pheatmap`, `tidyr`, `stringr`, `magrittr`
+
+### Data Availability & Contact
+
+The processed `.RData` workspace containing the complete objects, intermediate matrices, and enrichment results from this analysis is available upon request. 
+
+For access to the `.RData` file, additional methodological details, or collaboration inquiries, feel free to reach out via [GitHub](https://github.com/KatGia) or LinkedIn.
