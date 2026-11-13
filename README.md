@@ -1,5 +1,4 @@
-# epigenetics-pipelines
-Epigenomics &amp; Chromatin Accessibility
+# Epigenomics &amp; Chromatin Accessibility
 # ATAC-seq Differential Accessibility Analysis Pipeline
 
 An end-to-end R pipeline for identifying **Differentially Accessible Regions (DARs)** from ATAC-seq data, featuring robust linear modeling, quality controls, genomic feature annotation, and transcription factor motif enrichment.
