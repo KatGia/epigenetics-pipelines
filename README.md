@@ -22,3 +22,7 @@ An end-to-end R pipeline for identifying **Differentially Accessible Regions (DA
 The processed `.RData` workspace containing the complete objects, intermediate matrices, and enrichment results from this analysis is available upon request. 
 
 For access to the `.RData` file, additional methodological details, or collaboration inquiries, feel free to reach out via [GitHub](https://github.com/KatGia) or LinkedIn.
+
+## License
+
+This material and its associated source code are distributed under the **MIT License** — see the [LICENSE](LICENSE) file for details. The code may be freely reused and adapted for teaching or research purposes with proper attribution to the original author.
